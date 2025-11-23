@@ -30,7 +30,7 @@ void bubblesort_array (int a[]){
 int main (){
 	int array [N], i;
 	printf("-- Bubble Sort (N = %d) --\n\n", N);
-	//Generating array elements with rand()
+	//input array elements
 	for (i=0; i<N;i++){
 		printf("array[%d]= ", i);
 		scanf("%d", &array[i]);
@@ -40,3 +40,4 @@ int main (){
 	bubblesort_array(array);			
 	return 0;
 }
+
