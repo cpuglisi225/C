@@ -30,7 +30,7 @@ Raccolta di esercizi assegnati.
 - [Calcolo dell'età a partire dall'anno di nascita e da quello attuale](age_from_birth_year.c)
 - [Calcolo dell'area di un triangolo](triangle_area_calculation.c)
 - [Selezione del giorno della settimana attraverso l'impiego del costrutto switch](day_selection_switch.c)
-- [Prototipo del menù di un calcolatrice](interactive_calc_menu.c)
+- [Prototipo del menù di una calcolatrice](interactive_calc_menu.c)
 - [Acquisizione di username e password secondo requisiti di lunghezza e caratteri consentiti](username_password_validation.c)
 - [Acquisizione di Nome/Cognome/Stipendio senza gestione di un input maggiore del consentito](struct_lavoratore_01.c)
 - [Acquisizione di Nome/Cognome/Stipendio con gestione di un input maggiore del consentito](struct_lavoratore_v2.c)
