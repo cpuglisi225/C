@@ -1,4 +1,4 @@
-/* calcolo dell'et‡ a partire dall'anno attuale
+/* calcolo dell'et√† a partire dall'anno attuale
 17/11/2025
 */
 #include <stdio.h>
