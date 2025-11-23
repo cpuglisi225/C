@@ -6,7 +6,6 @@
 
 void incrementa (int n){
 	n++;
-	int *c = &n;
 	printf("In 'Incrementa' viene creata una copia x' di x:\tx' = %d\t\t &x'\t%p\n", n, &n);
 	}
 
@@ -32,3 +31,4 @@ int main(){
 	return 0;	
 	
 }
+
