@@ -3,6 +3,8 @@
 
 Raccolta di esercizi assegnati.  
 ### Indice 
+- [Completamento Esercizio 3 - Archivio studenti](archivio_studenti_.c)
+- [Revisione Esercizio 1 - Statistiche su numeri interi](statistiche_su_numeri_interi.c)
 - [Operazioni su un array](array_operations.c)
 
   ```
