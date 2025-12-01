@@ -3,8 +3,14 @@
 
 Raccolta di esercizi assegnati.  
 ### Indice 
-- [Completamento Esercizio 3 - Archivio studenti](archivio_studenti_.c)
-- [Revisione Esercizio 1 - Statistiche su numeri interi](statistiche_su_numeri_interi.c)
+- [Esempio di applicazione del concetto di code di array - Gestione accessi pronto soccorso](array_di_code_accesso_pronto_soccorso.c)
+- [Incremento di tutti valori di un file di input e scrittura del risultato su un file di output](incrementa_valori_file.c)
+- [Incremento di un valore da un file di input e scrittura del risultato su un file di output](lettura_valore_scrittura__incremento.c)
+- [Acquisizione elementi di un array da file con allocazione dinamica](acquisizione_array_da_file.c)
+- [Acquisizione elementi di un array con allocazione dinamica e scrittura su file](allocazione_dinamica_e_scrittura_file_.c)
+- [Stampa a video della data corrente](time.c)
+- [Completamento Esercizio 3 Compito- Archivio studenti](archivio_studenti_.c)
+- [Revisione Esercizio 1 Compito - Statistiche su numeri interi](statistiche_su_numeri_interi.c)
 - [Operazioni su un array](array_operations.c)
 
   ```
